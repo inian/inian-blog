@@ -19,7 +19,8 @@ Here are some of the tools I use day to day to stay a bit more secure online.
 - [1.1.1.1](https://1.1.1.1/) or 8.8.8.8 – I trust Cloudflare over my local ISP for my DNS resolver on both my computer and mobile.
 - [Telegram](https://web.telegram.org/) – When it comes to messaging apps, these are the most important things for me (from descending to ascending)
 
-  - Are my friends on it? - Desktop support
+  - Are my friends on it?
+  - Desktop support
   - Does it allow to export my chat messages? (In case I want to switch phones / operating systems)
   - End to end encryption
 
