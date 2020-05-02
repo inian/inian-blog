@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Connecting the dots`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Inian Parameshwaran`,
+      summary: `A confused guy`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Thoughts of a Ever Confused Guy`,
+    siteUrl: `https://blog.everconfusedguy.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `everconfusedguy`,
     },
   },
   plugins: [
