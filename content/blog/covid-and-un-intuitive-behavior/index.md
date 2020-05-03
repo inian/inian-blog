@@ -1,10 +1,10 @@
 ---
 title: COVID and un-intuitive behavior
 date: "2020-05-02T22:40:32.169Z"
-description: There have been a lot of factors which have made the worsened the transmission of the novel coronavirus. Some of those factors have been due to incorrect judgement and reasoning that we often fall prey to and I wanted to explore some of these aspects.
+description: There have been a lot of factors which have worsened the transmission of the novel coronavirus. Some of those factors have been due to incorrect judgement and reasoning that we often fall prey to and I wanted to explore some of these aspects.
 ---
 
-There have been a lot of factors which have made the worsened the transmission of the novel coronavirus. Some of those factors have been due to incorrect judgement and reasoning that we often fall prey to and I wanted to explore some of these aspects. Could the virus have been slowed down if all of us were perfectly rational?
+There have been a lot of factors which have worsened the transmission of the novel coronavirus. Some of those factors have been due to incorrect judgement and reasoning that we often fall prey to and I wanted to explore some of these aspects. Could the virus have been slowed down if all of us were perfectly rational?
 
 ## Exponential Growth
 
