@@ -38,7 +38,7 @@ Modeling the real world is hard. Even if you had accurate numbers for all parame
 
 ### Don't beat yourself about it
 
-As we have seen, there is a lot of reasons why something may not work out as you expected it to, even if you did the best you could at that time. Once you internalize this, it becomes easier to not beat yourself about "bad" decisions you took in the past.
+As we have seen, there is a lot of reasons why something may not work out as you expected it to, even if you did the best you could at that time. Once you internalize this, it becomes easier to not beat yourself about "bad" decisions you took in the past. Over-correction based on any one incident is not a good thing.
 
 ### Separating the process and the outcome
 
@@ -60,6 +60,6 @@ It is pointless to think "If I could go back in time, I would not have invested 
 
 ### Thinking about all possible outcomes
 
-One way of not falling for the outcome bias is focussing on all possible outcomes instead of just the outcome that happened. It is fascinating how much weightage we give to our own experiences. At each point in our life, things could have gone so many different ways - some because of the decisions we took, but mostly because of the events happening around us which we have no control over. A few "bad" turns in our lives might have made us more cynical for example. The lives we are living now is just one manifestation of infinite possible ways in which it could have gone. But still we take so many decisions based on how things have gone till now. It is like we are adjusting our weights to our neural network with just one training sample (#sorrynotsorry).
+One way of not falling for the outcome bias is contemplating about alternate outcomes instead of just the outcome that happened. It is fascinating how much weightage we give to our own experiences. At each point in our life, things could have gone so many different ways - some because of the decisions we took, but mostly because of the events happening around us which we have no control over. The lives we are living now is just one manifestation of infinite possible ways in which it could have gone. But still we take almost all of our decisions based on how things have gone till now. It is like we are adjusting our weights to our neural network with just one training sample (#sorrynotsorry).
 
-This would lead to a more robust decision making process and we would also not over-correct based on any particular incident that happened.
+So your learnings ideally should be = learnings assuming the startup failed + learnings assuming the startup succeeded. Since we can't live out all alternate timelines, the closest we can come to is by actively thinking about what your learnings would have been in the other timelines.
