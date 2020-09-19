@@ -50,7 +50,7 @@ It is pointless to think "If I could go back in time, I would not have invested 
 
   Now that you have gone through one concrete manifestation of the different possibilities, you might realize that the weights you had given to certain factors might need some tweaking.
 
-  _I didn't not invest in the startup, but I am regretting passing up on the opportunity more than I thought I would._
+  _I didn't invest in the startup, but I am regretting passing up on the opportunity more than I thought I would._
 
 - What factors I had not even considered before?
 
