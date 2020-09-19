@@ -26,17 +26,15 @@ The best algorithm for the [secretary problem](https://en.wikipedia.org/wiki/Sec
 
 For most decisions in life, we don't get to roll the dice multiple times till we get a favourable outcome, even if we are using the best possible algorithm to make our decisions.
 
-### Incomplete data
+### Inaccurate data
 
-Even if you have the best algorithm in the world, you probably don't have the most accurate data to give to your algorithm. Modeling the real world is hard. You can't predict how the competitive landscape is going to change exactly. Probably there are a few other teams working on the exact same idea as your friend's.
+Even if you have the best algorithm in the world, you probably don't have the most accurate data to give to your algorithm. You can't predict how the competitive landscape is going to change exactly. Probably there are a few other teams working on the exact same idea as your friend's.
 
 ### Unpredictability
 
-Even if your friend had the best startup idea in the world, there still might be unpredictable events that happen which can derail the company (If you are reading this in 2020, you needn't think too hard to come up with these black swan events).
+Modeling the real world is hard. Even if you had accurate numbers for all parameters in your model, you can never truly account for the unpredictability of the real world. Your friend's business plan definitely did not have a section on "How the business will survive a pandemic".
 
----
-
-## So what should you do?
+## What should you do instead?
 
 ### Don't beat yourself about it
 
@@ -46,7 +44,7 @@ As we have seen, there is a lot of reasons why something may not work out as you
 
 This doesn't mean that you don't learn from your experiences. But what you learn from your experiences is to see if you can change your decision making **process** somehow. Remember that this retrospective analysis should be done even for decisions that had a good outcome! You just might have been lucky that particular time.
 
-So it is pointless to think "If I could go back in time, I would not have invested in my friend's startup". The exact same situation at the exact same time is not going to happen to you again anyway. So these are more useful questions to ask yourself
+It is pointless to think "If I could go back in time, I would not have invested in my friend's startup". The exact same situation at the exact same time is not going to happen to you again anyway. Instead these are more useful questions to ask yourself
 
 - How would the weightage to different factors I considered be different?
 
@@ -60,7 +58,7 @@ So it is pointless to think "If I could go back in time, I would not have invest
 
   _My friend feels betrayed that I did not invest in their startup and I feel bad about that which I had not considered before._
 
-### Focussing on all possible outcomes
+### Thinking about all possible outcomes
 
 One way of not falling for the outcome bias is focussing on all possible outcomes instead of just the outcome that happened. It is fascinating how much weightage we give to our own experiences. At each point in our life, things could have gone so many different ways - some because of the decisions we took, but mostly because of the events happening around us which we have no control over. A few "bad" turns in our lives might have made us more cynical for example. The lives we are living now is just one manifestation of infinite possible ways in which it could have gone. But still we take so many decisions based on how things have gone till now. It is like we are adjusting our weights to our neural network with just one training sample (#sorrynotsorry).
 
