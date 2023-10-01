@@ -2,7 +2,7 @@
 title: On Software Compatibility
 date: 2023-10-01
 external: false
-description: What is outcome bias? How do we overcome that to make better decisions?
+description: I discuss the various levels of compatibility - from building into existing ecosystems, implementing a fork or a compatibility layer to doing everything from scratch.
 ---
 
 The product decisions you take early on in a company dictate how easy it is to adopt it by new users. If the product you are building on top of existing ecosystem, it becomes far easier to adopt than bootstrapping an entirely new one.
