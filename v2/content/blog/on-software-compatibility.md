@@ -1,6 +1,7 @@
 ---
 title: On Software Compatibility
 date: 2023-10-01
+draft: true
 external: false
 description: I discuss the various levels of compatibility - from building into existing ecosystems, implementing a fork or a compatibility layer to doing everything from scratch.
 ---
